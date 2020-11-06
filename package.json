@@ -1,0 +1,20 @@
+{
+  "name": "testsocket",
+  "version": "1.0.0",
+  "description": "Tesing socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "morgan": "^1.10.0",
+    "serve-favicon": "^2.5.0",
+    "socket.io": "^3.0.0",
+    "socket.io-client": "^3.0.0",
+    "validator": "^13.1.17"
+  }
+}
